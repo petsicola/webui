@@ -11,10 +11,10 @@ msgid " Builtin Users"
 msgstr ""
 
 msgid " Check Notifications for more details."
-msgstr ""
+msgstr " Verifica las notificaciones para más detalles "
 
 msgid " Download Updates"
-msgstr ""
+msgstr " Descarga las actualizaciones "
 
 msgid " First vdev has "
 msgstr " El primer vdev tiene "
@@ -29,7 +29,7 @@ msgid " Plugin"
 msgstr ""
 
 msgid " Service"
-msgstr ""
+msgstr " Servicio "
 
 msgid ""
 " When the <b>UPS Mode</b> is set to <i>slave</i>. Enter the open network "
@@ -49,7 +49,7 @@ msgid ""
 msgstr ""
 
 msgid " and "
-msgstr ""
+msgstr " y "
 
 msgid " and all snapshots of it?"
 msgstr " y todas sus instantaneas (snapshots)?"
@@ -67,19 +67,19 @@ msgid " but datastore "
 msgstr ""
 
 msgid " disks"
-msgstr ""
+msgstr " discos "
 
 msgid " disks, new vdev has "
 msgstr " disco, el nuevo vdev tiene "
 
 msgid " has been unlocked."
-msgstr ""
+msgstr " ha sido desbloqueado "
 
 msgid " is "
-msgstr ""
+msgstr " es "
 
 msgid " is required."
-msgstr ""
+msgstr " se requiere "
 
 msgid ""
 " is still running,  the Guest OS did not respond as expected. It is "
@@ -95,7 +95,7 @@ msgstr ""
 "pequeño puede reducir el rendimiento del sistema."
 
 msgid " seconds"
-msgstr ""
+msgstr " segundos "
 
 msgid ""
 " seconds unless KEEP PERMANENTLY is chosen. Adjust the delay time to allow "
@@ -103,22 +103,22 @@ msgid ""
 msgstr ""
 
 msgid " service has been enabled."
-msgstr ""
+msgstr " El servicio está habilitado "
 
 msgid " should be greater than "
-msgstr ""
+msgstr " Debería ser mayor que "
 
 msgid " should be less than "
-msgstr ""
+msgstr " Debería ser menor que "
 
 msgid " system is powered on and connected to the network."
-msgstr ""
+msgstr " El sistema está encendido y conectado a la red "
 
 msgid " to include all "
 msgstr ""
 
 msgid " update successful"
-msgstr ""
+msgstr " Actualización realizada con éxito "
 
 msgid " updated."
 msgstr " actualizado."
@@ -137,40 +137,40 @@ msgid "'. All data on that pool was destroyed."
 msgstr "' Todos los datos de este pool fueron destruidos."
 
 msgid "(24 Hours)"
-msgstr ""
+msgstr "(24 Horas)"
 
 msgid "(Examples: 500 KiB, 500M, 2 TB)"
-msgstr ""
+msgstr "(Ejemplos: 500 KiB, 500M, 2 TB)"
 
 msgid "(No description)"
-msgstr ""
+msgstr "(Sin descripción)"
 
 msgid "(Remove pool from database)"
-msgstr ""
+msgstr "(Eliminar pool de la base de datos)"
 
 msgid ", new vdev is "
 msgstr ""
 
 msgid ". All data on that pool was destroyed."
-msgstr ""
+msgstr " Todos los datos en el pool fueron destruidos "
 
 msgid ". At least one is required."
-msgstr ""
+msgstr ". Se requiero al menos uno "
 
 msgid ". Is this correct?"
-msgstr ""
+msgstr ". ¿Es correcto?"
 
 msgid "... Make sure the "
 msgstr ""
 
 msgid "0=Disabled, blank=inherit"
-msgstr ""
+msgstr "0=desabilitado, vacio=heredado"
 
 msgid "20 characters is the maximum length."
-msgstr ""
+msgstr "la máxima longitud son 20 caracteres"
 
 msgid ": Automatic update check failed. Please check system network settings."
-msgstr ""
+msgstr ": Verificación automática de actualizacion fallida. Por favor verifica la configuración de red del sistema."
 
 msgid "</b> plugin deletes all data and snapshots stored with it."
 msgstr ""
@@ -1356,7 +1356,7 @@ msgid "Apr"
 msgstr ""
 
 msgid "Archive"
-msgstr ""
+msgstr "Archivo"
 
 msgid "Are you sure you want to sync from peer?"
 msgstr ""
@@ -1365,7 +1365,7 @@ msgid "Are you sure you want to sync to peer?"
 msgstr ""
 
 msgid "Are you sure?"
-msgstr ""
+msgstr "¿Estás seguro?"
 
 msgid ""
 "Assigning a directory to Minio changes the permissions                      "
@@ -1377,7 +1377,7 @@ msgid ""
 msgstr ""
 
 msgid "Associated Target"
-msgstr ""
+msgstr "Target asociado"
 
 msgid ""
 "At least one module must be defined in <a                "
@@ -1426,10 +1426,10 @@ msgid ""
 msgstr ""
 
 msgid "Authentication"
-msgstr ""
+msgstr "Autenticación"
 
 msgid "Authentication Advanced Options"
-msgstr ""
+msgstr "Autenticación opciones avanzadas"
 
 msgid "Authentication Algorithm"
 msgstr ""
@@ -1438,13 +1438,13 @@ msgid "Authentication Group number"
 msgstr ""
 
 msgid "Authentication Protocol"
-msgstr ""
+msgstr "Protocolo de autenticación"
 
 msgid "Authentication Type"
-msgstr ""
+msgstr "Tipo de autenticación"
 
 msgid "Authentication URL"
-msgstr ""
+msgstr "URL de autenticación"
 
 msgid ""
 "Authentication URL for the server. This is the OS_AUTH_URL from an <a "
@@ -1453,10 +1453,10 @@ msgid ""
 msgstr ""
 
 msgid "Authenticator"
-msgstr ""
+msgstr "Autenticador"
 
 msgid "Authenticator Attributes"
-msgstr ""
+msgstr "Atributos del autenticador"
 
 msgid ""
 "Authenticator to validate the Domain. Choose a previously configured ACME "
@@ -1464,13 +1464,13 @@ msgid ""
 msgstr ""
 
 msgid "Authorized Hosts and IP addresses"
-msgstr ""
+msgstr "Hosts y direcciones IP autorizados"
 
 msgid "Authorized Networks"
-msgstr ""
+msgstr "Redes autorizadas"
 
 msgid "Auto configure IPv6"
-msgstr ""
+msgstr "Auto configura IPv6"
 
 msgid ""
 "Auto-populates with information from the <b>Realm</b> when the settings in "
@@ -1481,7 +1481,7 @@ msgid "Auto-start"
 msgstr ""
 
 msgid "Autoconfigure IPv6"
-msgstr ""
+msgstr "Autoconfigura IPv6"
 
 msgid "Autoconfigure IPv6 with rtsold"
 msgstr ""
@@ -1501,7 +1501,7 @@ msgid ""
 msgstr ""
 
 msgid "Automatically reboot the system after the update is applied."
-msgstr ""
+msgstr "Reinicio automático del sistema después de que la actualización se aplique"
 
 msgid "Automatically stop the script or command after the specified seconds."
 msgstr ""
@@ -1566,10 +1566,10 @@ msgid "Background (lowest)"
 msgstr ""
 
 msgid "Bandwidth"
-msgstr ""
+msgstr "Ancho de banda"
 
 msgid "Bandwidth Limit"
-msgstr ""
+msgstr "límite de ancho de banda"
 
 msgid "Base DN"
 msgstr ""
@@ -1599,10 +1599,10 @@ msgid "Before updating, please read the release notes."
 msgstr ""
 
 msgid "Begin"
-msgstr ""
+msgstr "Comienzo"
 
 msgid "Begin Time"
-msgstr ""
+msgstr "Hora de comienzo"
 
 msgid "Berkeley Packet Filter"
 msgstr ""
@@ -1854,7 +1854,7 @@ msgid "Case Sensitivity"
 msgstr ""
 
 msgid "Category"
-msgstr ""
+msgstr "Categoría"
 
 msgid ""
 "Caution: Allocating too much memory can slow the  system or prevent VMs "
@@ -1875,28 +1875,28 @@ msgid ""
 msgstr ""
 
 msgid "Certificates"
-msgstr ""
+msgstr "Certificados"
 
 msgid "Change Administrator Password"
-msgstr ""
+msgstr "Cambiar contraseña de administrador"
 
 msgid "Change Device Order"
-msgstr ""
+msgstr "Cambiar el orden del dispositivo"
 
 msgid "Change Passphrase"
 msgstr ""
 
 msgid "Change Password"
-msgstr ""
+msgstr "Cambiar contraseña"
 
 msgid "Change Settings and Clear Report History?"
-msgstr ""
+msgstr "Cambiar configuración y borrar el historial?"
 
 msgid "Change User & Group Ownership"
 msgstr ""
 
 msgid "Change User and Group Ownership"
-msgstr ""
+msgstr "Cambiar la propiedad de usuario y grupo"
 
 msgid ""
 "Change existing ownership of ALL files in the share  to user "
@@ -1918,12 +1918,14 @@ msgid ""
 "Change the default password to improve system security. The new password "
 "cannot contain a space or <b>#</b>."
 msgstr ""
+"Camibar la contraseña por defecto para aumentar la seguridad del sistema. La nueva contraseña "
+"no puede contener un espacio o <b>#</b>."
 
 msgid "Changes that have been applied will revert after "
 msgstr ""
 
 msgid "Changing"
-msgstr ""
+msgstr "Cambiando"
 
 msgid ""
 "Changing SDK version is not a supported operation. Activate an existing "
@@ -11732,7 +11734,7 @@ msgid "VNC"
 msgstr ""
 
 msgid "VNC Port"
-msgstr ""
+msgstr "Puerto del VNC"
 
 msgid ""
 "VNC network interface IP address. The primary interface IP address is the "
@@ -11749,19 +11751,19 @@ msgid "VNET is required."
 msgstr ""
 
 msgid "Valid"
-msgstr ""
+msgstr "Validar"
 
 msgid "Validate Certificates"
 msgstr ""
 
 msgid "Validate Remote Path"
-msgstr ""
+msgstr "Valida la dirección remota"
 
 msgid "Value"
-msgstr ""
+msgstr "Valor"
 
 msgid "Value must be greater than "
-msgstr ""
+msgstr "El valor debe ser mayor que "
 
 msgid "Variable"
 msgstr ""
@@ -11794,49 +11796,49 @@ msgid "Video, < 10ms latency"
 msgstr ""
 
 msgid "View"
-msgstr ""
+msgstr "Vista"
 
 msgid "View Enclosure"
 msgstr ""
 
 msgid "View License Info"
-msgstr ""
+msgstr "Ver información de licencia"
 
 msgid "View Licenses"
-msgstr ""
+msgstr "no pueden ser creadas "
 
 msgid "View Logs"
-msgstr ""
+msgstr "Ver Logs"
 
 msgid "Virtual CPUs"
-msgstr ""
+msgstr "CPUs Virtuales"
 
 msgid "Virtual IP Address"
-msgstr ""
+msgstr "Dirección IP Virtual"
 
 msgid "Virtual Interface"
-msgstr ""
+msgstr "Interfaz virtual"
 
 msgid "Virtual Machine (VM) Wizard type."
 msgstr ""
 
 msgid "Virtual Machines"
-msgstr ""
+msgstr "Máquinas Virtuales"
 
 msgid "Virtual Machines cannot be created or started without a pool to store them."
-msgstr ""
+msgstr "no se pueden crear máquinas virtuales o iniciarlas sin un pool para almacenarlas"
 
 msgid "Virtualization"
-msgstr ""
+msgstr "Virtualización"
 
 msgid "Vlan Tag"
 msgstr ""
 
 msgid "Volume size cannot be zero."
-msgstr ""
+msgstr "El tamaño del volumen no puede ser cero."
 
 msgid "WARNING"
-msgstr ""
+msgstr "Advertencia"
 
 msgid "WARNING: A failover will  temporarily interrupt system services."
 msgstr ""
@@ -12373,7 +12375,7 @@ msgid "multipath"
 msgstr ""
 
 msgid "name"
-msgstr ""
+msgstr "nombre"
 
 msgid "nmsgq"
 msgstr ""
@@ -12394,19 +12396,19 @@ msgid "openfiles"
 msgstr ""
 
 msgid "overview"
-msgstr ""
+msgstr "visión general"
 
 msgid "owner"
-msgstr ""
+msgstr "propietario"
 
 msgid "password"
-msgstr ""
+msgstr "contraseña"
 
 msgid "pcpu"
 msgstr ""
 
 msgid "priority"
-msgstr ""
+msgstr "prioridad"
 
 msgid "pseudoterminals"
 msgstr ""
@@ -12424,7 +12426,7 @@ msgid "rpc.statd(8) bind port"
 msgstr ""
 
 msgid "safe"
-msgstr ""
+msgstr "seguro"
 
 msgid "seconds unless KEEP CHANGES is chosen to make them permanent."
 msgstr ""
@@ -12460,10 +12462,10 @@ msgid "sysvshm"
 msgstr ""
 
 msgid "template"
-msgstr ""
+msgstr "plantilla"
 
 msgid "total memory installed"
-msgstr ""
+msgstr "Memoria total instalada"
 
 msgid "used"
 msgstr ""
@@ -12496,10 +12498,10 @@ msgid "warn"
 msgstr ""
 
 msgid "was successfully attached."
-msgstr ""
+msgstr "fue adjuntado con éxito"
 
 msgid "while pool is encrypted"
-msgstr ""
+msgstr "miestras el pool esté encriptado"
 
 msgid "yes"
-msgstr ""
+msgstr "sí"
